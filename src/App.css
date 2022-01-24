@@ -1,0 +1,16 @@
+.ant-btn {
+  border-radius: 12px;
+}
+.ant-modal-content,
+.ant-input,
+.ant-btn,
+.ant-modal-content,
+.ant-card,
+.ant-card-bordered,
+.ant-input-affix-wrapper,
+.ant-select,
+.ant-select-selector,
+.ant-dropdown-menu,
+.ant-modal-header {
+  border-radius: 12px 12px 12px 12px;
+}
