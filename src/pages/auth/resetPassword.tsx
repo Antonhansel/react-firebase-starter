@@ -2,7 +2,7 @@ import React from 'react';
 import { Form, Input, Button, notification, Typography, Row, Col } from 'antd';
 import { UserOutlined } from '@ant-design/icons';
 import { useTranslation } from 'react-i18next';
-import firebase from 'firebase/app';
+import firebase from 'firebase/compat/app';
 import { useHistory } from 'react-router';
 import logo from '../../layout/components/cube.png';
 import { Link } from 'react-router-dom';

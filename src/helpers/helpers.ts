@@ -1,5 +1,5 @@
 import { User } from "../common/types";
-import firebase from "firebase/app";
+import firebase from "firebase/compat/app";
 import { useEffect } from "react";
 import { useState } from "react";
 

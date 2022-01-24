@@ -2,7 +2,7 @@ import * as React from 'react';
 import { Button, Dropdown, Menu, Row, Typography } from 'antd';
 import { useTranslation } from 'react-i18next';
 import styled from 'styled-components';
-import firebase from 'firebase/app';
+import firebase from 'firebase/compat/app';
 
 import { Layout as AntdLayout } from 'antd';
 import { MenuOutlined, UserOutlined } from '@ant-design/icons';

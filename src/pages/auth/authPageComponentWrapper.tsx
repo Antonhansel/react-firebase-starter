@@ -11,7 +11,7 @@ import {
 } from 'antd';
 import { UserOutlined, LockOutlined } from '@ant-design/icons';
 import { useTranslation } from 'react-i18next';
-import firebase from 'firebase/app';
+import firebase from 'firebase/compat/app';
 import { useHistory } from 'react-router';
 import logo from '../../layout/components/cube.png';
 import googleLogo from './google-logo.png';
